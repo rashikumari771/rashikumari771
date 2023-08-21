@@ -1,3 +1,4 @@
+![Cover Image](https://lh3.googleusercontent.com/pw/AIL4fc8Q3XZCJkH1yn1gSPBMuTFqYVCW-dfaIK94HZrOfrzh-QMwjqtQ35zydarHODUSf958hCOk988qmX6JGHDynZj4qBgdR3DN5OR05SOYaXG0El8bKUUW6B-WouQFMNi7QnkQgK61zFIENNw8i6GhZvVr=w1584-h396-s-no?authuser=0)
 <h1 align="center">Hi 👋, I'm Rashi Kumari</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
@@ -41,9 +42,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rashi2002"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rashi2002" /></a></p><br><br>
+<br/>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashikumari771&show_icons=true&locale=en&layout=compact" alt="rashikumari771" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=rashikumari771&show_icons=true&locale=en" alt="rashikumari771" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashikumari771&show_icons=true&locale=en&layout=compact" alt="rashikumari771" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashikumari771&show_icons=true&locale=en" alt="rashikumari771" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashikumari771&" alt="rashikumari771" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashikumari771&" alt="rashikumari771" /></p>
