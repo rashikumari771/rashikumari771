@@ -1,4 +1,4 @@
-![Cover Image](https://photos.google.com/share/AF1QipNCaMP49b2gSABqVdfrk85waZtOA-WDam7W12sqyoKT84XxnxUUiA4azPiUlt9F_A/photo/AF1QipOcb8CPr3A4WmZC-EPWR1tOpiSqZWap_nx7tiHd?key=c1pRUUlSUWFSbzZtSG9JR1hVN1I0N1IzUlJOSFVn)
+![Cover Image](https://lh3.googleusercontent.com/pw/AIL4fc9F9aid0nRTYTJ-3ORyQFP6ctUVMOCofEyXdl0zjr1bKMqwZV9kLlvrF3zBj9lzafPSLug_LNYZdcumJK6LT5lCeAC6TCxDGQk-KRn47EJjPBem-PSN--ibPHgRyD4Sm1gb3WljTkC4RWCxaI7DAN3x=w1584-h396-s-no?authuser=0)
 <h1 align="center">Hi 👋, I'm Rashi Kumari</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
