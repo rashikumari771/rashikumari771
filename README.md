@@ -10,13 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://rashikumari771.github.io/portfolio/](https://rashikumari771.github.io/portfolio/)
-
 - 💬 Ask me about **Competitive Programming, MERN Stack**
-
-- 📫 How to reach me **rashikumari617@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1veYmYB4vWrUtPtzSwjJwqtPfa7wPXy_LMo10zcSbsJg/edit](https://docs.google.com/document/d/1veYmYB4vWrUtPtzSwjJwqtPfa7wPXy_LMo10zcSbsJg/edit)
 
 - ⚡ Fun fact **I Think I am funny**
 
